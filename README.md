@@ -20,5 +20,10 @@
 但是生成的整个文件很大，有900+M
 
 ## 界面
-界面只有三个: 开始界面、 设置界面、 迷宫界面 
-###开始界面
+界面只有三个: 开始界面、 设置界面、 迷宫界面   
+### 开始界面  
+![image](https://github.com/Rainbow452/Maze-pathfinding-using-pygame-display/blob/main/img/1.png)  
+### 设置界面  
+![image](https://github.com/Rainbow452/Maze-pathfinding-using-pygame-display/blob/main/img/2.png)  
+### 迷宫界面  
+![image](https://github.com/Rainbow452/Maze-pathfinding-using-pygame-display/blob/main/img/3.png)  
